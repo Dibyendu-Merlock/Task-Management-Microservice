@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Task-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Task-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task-Submission-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task-Submission-Service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Task-User-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Task-User-Service/src/main/resources" charset="UTF-8" />
   </component>

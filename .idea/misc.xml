@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Task-Service/pom.xml" />
         <option value="$PROJECT_DIR$/Task-User-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Task-Submission-Service/pom.xml" />
       </list>
     </option>
   </component>
