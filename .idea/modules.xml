@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Task-Management-Microservice.iml" filepath="$PROJECT_DIR$/.idea/Task-Management-Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task-Service/Task-Service.iml" filepath="$PROJECT_DIR$/Task-Service/Task-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task-User-Service/Task-User-Service.iml" filepath="$PROJECT_DIR$/Task-User-Service/Task-User-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-Submission-Service/task-Submission-Service.iml" filepath="$PROJECT_DIR$/Task-Submission-Service/task-Submission-Service.iml" />
     </modules>
   </component>
 </project>
