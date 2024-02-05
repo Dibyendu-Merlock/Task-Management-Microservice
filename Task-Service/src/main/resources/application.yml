@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: "USER-SERVICE"
+    name: "TASK-SERVICE"
   jpa:
     show-sql: true
     hibernate:
@@ -13,4 +13,13 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka
 
