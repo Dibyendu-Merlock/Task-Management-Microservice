@@ -3,14 +3,14 @@ package com.dibyendu.taskUserService.service.Impl;
 import com.dibyendu.taskUserService.config.JwtProvider;
 import com.dibyendu.taskUserService.entity.User;
 import com.dibyendu.taskUserService.repository.UserRepository;
-import com.dibyendu.taskUserService.service.Userservice;
+import com.dibyendu.taskUserService.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class UserServiceImpl implements Userservice
+public class UserServiceImpl implements UserService
 {
     @Autowired
     private UserRepository userRepository;
